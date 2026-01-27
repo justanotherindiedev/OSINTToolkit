@@ -1027,4 +1027,5 @@ if __name__ == "__main__":
         print(f"{RED}Password errata. Uscita...{RESET}")
         time.sleep(2)
         sys.exit(1)
+
     menu()
